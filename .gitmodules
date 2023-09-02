@@ -1,0 +1,6 @@
+[submodule "Linux/TLib/Modulator"]
+	path = Linux/TLib/Modulator
+	url = git@github.com:dmirtydmirty/Modulator.git
+[submodule "STM32/STM32CubeF4"]
+	path = STM32/STM32CubeF4
+	url = git@github.com:STMicroelectronics/STM32CubeF4.git
